@@ -36,18 +36,6 @@ body {
     text-align: center;
     padding: 10px 0;
   }
-#Espresso{
-  color: aqua;
-}
-#Macchiato{
-  color: aqua;
-}
-#agua{
-  color: aqua;
-}
-#agua{
-  color: aqua;
-}
 p{
   font-family: candara;
   text-align: center;
@@ -63,4 +51,19 @@ h2,h1{
 }
 li{
   font-family: didoti;
+}
+.container {
+  width: 10%;
+  height: 100px;
+  display: flexbox;
+  justify-content: center;
+  align-items: flex-start; 
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+title{
+  color: aqua;
 }
