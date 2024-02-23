@@ -1,0 +1,66 @@
+body {
+  background-color: #a73c3c; 
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #5b1a1a;
+    color: #fff;
+    padding: 10px 20px;
+  }
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 20px;
+  }
+  
+  nav ul li a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  section.menu {
+    padding: 20px;
+  }
+  
+  footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+  }
+#Espresso{
+  color: aqua;
+}
+#Macchiato{
+  color: aqua;
+}
+#agua{
+  color: aqua;
+}
+#agua{
+  color: aqua;
+}
+p{
+  font-family: candara;
+  text-align: center;
+  background-color: #5e0101cf;
+  color: rgb(254, 254, 254);
+  width: 500px;
+  border-radius: 5px;
+
+}
+h2,h1{
+  font-family: cambria;
+  color: white;
+}
+li{
+  font-family: didoti;
+}
